@@ -5,7 +5,7 @@ learning some linux programming stuff
 
 ## HOWTO
 
-git clone <this_repo>
-cd <this_repo>
+git clone <this_repo> <br>
+cd <this_repo>  <br>
 make
 
